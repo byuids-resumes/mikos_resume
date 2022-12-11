@@ -1,84 +1,61 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Caden Mikos's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Caden Mikos
+Senior Accounting Student at BYU-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="mik19002@byui.edu">mik19002@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/cadenmikos/">LinkedIn</a>
+| <a href="https://github.com/cadenmikos">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019 - 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor's of Science in Accounting - 3.7 Major GPA
+- Certificate in Data Science
+
+`Expected 2023`
+__Grand Canyon University__, Phoenix, AZ
+
+- Master's of Science in Accounting
+
+### Experience:
 
 
-## Related Experience
+__Research Analyst__
+`April 2022 - Current`
+__Berger Capital__, Salt Lake City, UT
 
-### Internships
+- Managed optimal pricing based on fluctuating trade policies, political developments, and supply changes
+- Analyzed portfolio positions and prepared financial reports detailing research findings
+- Monitored and consistently analyzed market conditions to identify optimum timing to execute securities transactions
+- Executed purchases and sales of stocks, commodity futures, and foreign currencies
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Tax Intern__
+`January 2022 - April 2022`
+__CliftonLarsonAllen, LLP__, Phoenix, AZ
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Consulted with various individuals and business clients to prepare simple to complex tax returns while also offering pretax planning and financial statement resolution services
+- Maintained a consistent and updated knowledge of current federal and state regulations pertaining to the taxation of individuals and businesses
+- Used company software and equipment to record client data and maintain organized files
+- Developed and maintained multiple large databases dealing with client records to assist in the smooth delivery of tax preparation services
 
-### Data Science Lead
+__Administrative Secretary__
+`July 2020 - January 2022`
+__Ship My Cards__, Goodyear, AZ
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Performed routine clerical tasks by scanning, filing, and copying documents
+- Responded to inquiries from clients seeking information and requesting assistance
+- Resolved customer concerns efficiently to promote satisfaction and loyalty
+- Handled mail, packages, emails, document transmissions and other types of data with both manual and automated tracking strategies
 
 
 
